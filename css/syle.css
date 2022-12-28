@@ -1,0 +1,69 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.mynavbar{
+background-color: #FFFFFF;}
+.navbar{
+    font-weight: 900;
+    background-color: #FFFFFF;
+}
+.h-m{
+    font-size: 20px;
+color: blue;}
+
+.banner_heading{
+    font-size: 43px;
+    color: black;
+}
+.banner-1{
+    background-color:beige;
+}
+.btn-3{
+background-color: #6C63FF;
+color: #FFFFFF;
+font-weight: 600;
+padding: 8px 35px;
+font-size: 14px;
+border-radius: 25px;
+text-shadow: none;
+}
+.btn-3:hover{
+    background-color:#FFFFFF;
+color:  #6C63FF ;
+
+}
+.photo{
+    left: 0;
+    top: -50px;
+    width: 111%;
+    
+}
+.banner-5{
+    font-size: 17px;
+}
+.m-1{
+    left: 0;
+    top: -50px;
+    width: 111%;
+    max-width:100%;
+    transition: all 0.3s ease-out 0s;
+}
+.text-subtitle{
+    color:  #6C63FF ;
+    font-weight:700;
+    font-size: 24px;
+}
+.text-title{ 
+    font-weight: 700;
+font-size: 35px;
+}
+.text-p{
+    font-size: 17px;
+    font-weight: 400;
+}
+.text-link{
+font-weight: 700;
+text-decoration: none;
+color: black;
+border-bottom: 3px solid #6C63FF;
+}
